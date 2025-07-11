@@ -2,7 +2,7 @@
 
 Welcome to our legal center. Below are the official documents:
 
-- [Privacy Policy](privacy_policy.md)
+- [Privacy Policy](privacypolicy.md)
 - [Terms & Conditions](terms_and_conditions.md)
 
 ---
